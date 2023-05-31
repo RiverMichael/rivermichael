@@ -4,7 +4,7 @@
 
 My name is Michael "River" Nilsson and I'm a Frontend Development student
 
-- 📍 Swedish living in Oslo, Norway since 2007
+- 📍 Swedish 🇸🇪 living in Oslo, Norway 🇧🇻 since 2007
 - 🤙 With a wide background from the hospitality industry I'm now following my dreams to work with coding and design
 - 📚 Studying Frontend Development at [Noroff](https://www.noroff.no)
 - 👨‍💻 Currently working on my personal portfolio website [www.michaelriver.dev](https://www.michaelriver.dev)
