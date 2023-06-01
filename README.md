@@ -1,6 +1,6 @@
 # Hello.
 
-## Who am i?
+## Who am I?
 
 My name is Michael "River" Nilsson and I'm a Frontend Development student
 
