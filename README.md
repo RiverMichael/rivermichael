@@ -5,7 +5,7 @@
 My name is Michael "River" Nilsson and I'm a Frontend Development student.
 
 - 📚 Studying Frontend Development at [Noroff](https://www.noroff.no) _(graduating in June 2024)_.
-- 📍 Available in Oslo - Norway 🇧🇻, and Stockholm - Sweden 🇸🇪.
+- 📍 Available in Stockholm - Sweden 🇸🇪, and Oslo - Norway 🇧🇻.
 - 👨‍💻 Currently extending my knowledge in [React](https://react.dev/) and [TailwindCSS](https://tailwindcss.com/).
 - 📮 Hit me up at [mrn@michaelriver.dev](mailto:mrn@michaelriver.dev), or [LinkedIn](https://www.linkedin.com/in/michaelrivernilsson).
 
