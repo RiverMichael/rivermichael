@@ -3,7 +3,6 @@
 ## Who am I?
 
 My name is Michael "River" Nilsson and I am a frontend developer specializing in React, Next.js, and Tailwind CSS.
-
 I am passionate about creating beautiful websites and web applications that are accessible, responsive, and user-friendly.
 
 - 📍 Actively seeking opportunities in Stockholm, Sweden 🇸🇪 / Oslo, Norway 🇧🇻.
