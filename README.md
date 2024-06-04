@@ -9,7 +9,7 @@ I am passionate about creating beautiful websites and web applications that are 
 - 📚 2 years of studies in Frontend Development at [Noroff](https://www.noroff.no) _(graduated in June 2024)_.
 
 - 👨‍💻 Currently working on my [portfolio page](https://michaelriver.dev), and extending my knowledge in [React](https://react.dev/) and [Next.js](https://nextjs.org/).
-- 📮 Hit me up at [mrn@michaelriver.dev](mailto:mrn@michaelriver.dev), or [LinkedIn](https://www.linkedin.com/in/michaelrivernilsson).
+- 📮 Hit me up at [mrn@michaelriver.dev](mailto:mrn@michaelriver.dev) or [LinkedIn](https://www.linkedin.com/in/michaelrivernilsson).
 
 ## Skills
 
