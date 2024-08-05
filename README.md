@@ -5,10 +5,10 @@
 My name is Michael "River" Nilsson and I am a frontend developer specializing in React, Next.js, and Tailwind CSS.
 I am passionate about creating beautiful websites and web applications that are accessible, responsive, and user-friendly.
 
-- :round_pushpin: Actively seeking opportunities in Stockholm, Sweden 🇸🇪 / Oslo, Norway 🇧🇻.
-- :books: Recently graduated from 2 years of studies in Frontend Development at [Noroff](https://www.noroff.no).
+- :round_pushpin: Actively seeking opportunities in Stockholm, Sweden 🇸🇪
+- :books: Recently graduated from 2 years of studies in Frontend Development at [Noroff](https://www.noroff.no)
 
-- :technologist: Currently working on extending my knowledge in [React](https://react.dev/) and [Next.js](https://nextjs.org/), and learning [TypeScript](https://typescriptlang.org/).
+- :technologist: Currently working on extending my knowledge in [React](https://react.dev/), [Next.js](https://nextjs.org/), and learning [TypeScript](https://typescriptlang.org/)
 - :mailbox: Hit me up at [mrn@michaelriver.dev](mailto:mrn@michaelriver.dev) or [LinkedIn](https://linkedin.com/in/michaelrivernilsson).
 - :desktop_computer: Check out my portfolio at [michaelriver.dev](https://michaelriver.dev)
 
